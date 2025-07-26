@@ -1,0 +1,5 @@
+Testando o gitbash 
+
+Agora que o gitbash funcionou farei meu primeiro commit 
+
+Na tentativa de aprendizado farei um segundo commit para poder voltar no tempo com o gitbash
